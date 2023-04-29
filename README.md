@@ -3,7 +3,7 @@ This is the final project for the Artificial Intelligence course, CSCI-6600 -02 
 
 This project involves training a data set with various machine learning techniques and assessing the effectiveness of each model to identify credit card fraud.
 
-## Table of Contents:
+## Table of Contents: 
 + [Data Set](#Data_Set) </br>
 + [Machine Learning models used](#Machine_Learning_models_used) </br>
 + [How we used these models in project](#How_we_used_these_models_in_project) </br>
